@@ -1,0 +1,139 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 150%;
+    margin: auto;
+    padding: auto;
+}
+
+h3 {
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 150%;
+    font-style: italic;
+    font-weight: 400;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.leftnav {
+    position: fixed;
+    margin-left: 10px;
+    text-align: left;
+    float: left;
+    width: 200px;
+}
+
+.leftnav a {
+    text-align: left;
+    margin-left: 10px;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+
+/* work */
+
+iframe {
+    /* float: left; */
+    margin-top: 20px;
+    margin-left: 200px;
+    /* object-fit: cover; */
+}
+
+.info {
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.work {
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+    /* border: solid red 1px; */
+    width: 84%;
+    height: 700px;
+}
+
+.work img {
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+    display: block;
+}
+
+
+/* about */
+
+.intro {
+    position: fixed;
+    width: 60%;
+    font-weight: 300;
+    font-size: 13px;
+    /* margin-top: 50px; */
+    text-align: right;
+    margin-left: 25%;
+}
+
+
+/*  */
+
+.schoollogo {
+    margin-top: 0;
+    float: right;
+    width: 400px;
+}
+
+.sketches iframe {
+    width: 600px;
+    height: 600px;
+    margin-left: 200px;
+}
+
+.video {
+    width: 1200px;
+    height: 700px;
+    margin-top: 10px;
+    ;
+    /* aspect-ratio: 16/9; */
+}
+
+.showcase img {
+    width: 1200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    float: left;
+    overflow: hidden;
+}
+
+.research {
+    position: fixed;
+    width: 30%;
+    margin-left: 15%;
+    font-weight: 300;
+    font-size: 13px;
+    margin-top: 200px;
+    text-align: right;
+}
+
+.publications {
+    position: fixed;
+    float: right;
+    width: 30%;
+    /* margin-left: 50%; */
+    margin-left: 55%;
+    font-weight: 300;
+    font-size: 13px;
+    margin-top: 200px;
+    text-align: right;
+}
