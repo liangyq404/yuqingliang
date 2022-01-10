@@ -116,11 +116,15 @@ iframe {
 }
 
 .showcase img {
-    width: 1200px;
+    /* width: 1200px; */
     margin-left: 200px;
     margin-top: 20px;
-    float: left;
+    /* float: left; */
+    /* overflow: hidden; */
+    width: 84%;
+    height: 700px;
     overflow: hidden;
+    display: block;
 }
 
 .research {
