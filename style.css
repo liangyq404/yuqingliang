@@ -38,6 +38,13 @@ a {
     font-size: 14px;
 }
 
+a:hover {
+    /* background-color: RGB(76, 81, 197); */
+    background-color: black;
+    color: white;
+    transition: background-color 0.2s linear;
+}
+
 
 /* work */
 
