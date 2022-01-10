@@ -66,7 +66,7 @@ iframe {
 .work {
     float: left;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 14%;
     /* border: solid red 1px; */
     width: 84%;
     height: 700px;
@@ -116,11 +116,8 @@ iframe {
 }
 
 .showcase img {
-    /* width: 1200px; */
-    margin-left: 200px;
+    margin-left: 14%;
     margin-top: 20px;
-    /* float: left; */
-    /* overflow: hidden; */
     width: 84%;
     height: 700px;
     overflow: hidden;
